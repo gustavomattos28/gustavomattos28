@@ -37,15 +37,6 @@
 
 ---
 
-### 📌 Projetos em destaque
-
-- 🔗 **[nome-do-projeto](https://github.com/seu-usuario/seu-projeto)** — breve descrição do que o projeto faz.
-- 🔗 **[nome-do-projeto](https://github.com/seu-usuario/seu-projeto)** — breve descrição do que o projeto faz.
-- 🔗 **[nome-do-projeto](https://github.com/seu-usuario/seu-projeto)** — breve descrição do que o projeto faz.
-
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
