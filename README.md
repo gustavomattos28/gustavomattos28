@@ -40,8 +40,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavo-mattos28&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-mattos28&layout=compact&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavomattos28&show_icons=true&theme=default&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavomattos28&show_icons=true&theme=default&layout=compact&theme=default" />
 </p>
 
 
