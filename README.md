@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gustavo! 👋</h1>
 <h3 align="center">Estudante de Desenvolvimento Full Stack 🚀</h3>
 <p align="center">
-  Aprendendo, construindo e evoluindo um projeto de cada vez.
+  Aprendendo, construindo e evoluindo.
 </p>
 
 ---
