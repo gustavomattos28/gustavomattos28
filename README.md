@@ -35,10 +35,11 @@ Aprendendo, construindo e evoluindo.
 
 ### 🐍 Contribuições
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gustavomattos28/gustavomattos28/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/gustavomattos28/gustavomattos28/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/gustavomattos28/gustavomattos28/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
