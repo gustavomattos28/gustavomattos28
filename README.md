@@ -28,10 +28,10 @@ Aprendendo, construindo e evoluindo.
 
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=gustavomattos28&show_icons=true&include_all_commits=true&theme=midnight-purple">
-    <img src="https://github-stats-extended.vercel.app/api?username=gustavomattos28&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
+    <img height="200" src="https://github-stats-extended.vercel.app/api?username=gustavomattos28&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
   </a>
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=gustavomattos28&layout=compact&langs_count=10&theme=midnight-purple">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gustavomattos28&layout=compact&langs_count=10&theme=midnight-purple" alt="GitHub Top Langs" />
+    <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=gustavomattos28&layout=compact&langs_count=10&theme=midnight-purple" alt="GitHub Top Langs" />
   </a>
 </p>
 
