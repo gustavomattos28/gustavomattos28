@@ -9,7 +9,7 @@ Aprendendo, construindo e evoluindo.
 ### 👨‍💻 Sobre mim
 - 🎓 Estudante da +PraTi de **Full Stack Development**
 - 💻 Trabalhando com **front-end** e **back-end**
-- 🌱 Atualmente aprendendo **React**, aprofundando em **JavaScript** e explorando **Java**
+- 🌱 Atualmente aprendendo **JavaScript&React**
 - 🛠️ Ferramentas do dia a dia: **VS Code**, **IntelliJ IDEA**, **Git/GitHub**
 - 📍 Brasil - Porto Alegre
 - 💬 Fico à vontade para trocar ideia sobre programação, dúvidas e projetos!
