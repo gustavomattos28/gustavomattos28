@@ -26,10 +26,9 @@ Aprendendo, construindo e evoluindo.
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavomattos28&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomattos28&layout=compact&theme=default" />
-</p>
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomattos28)](https:github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 
