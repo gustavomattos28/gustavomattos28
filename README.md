@@ -26,9 +26,11 @@ Aprendendo, construindo e evoluindo.
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomattos28)](https:github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=gustavomattos28&show_icons=true&include_all_commits=true&theme=midnight-purple">
+    <img src="https://github-stats-extended.vercel.app/api?username=gustavomattos28&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
+  </a>
+</p>
 
 ---
 
