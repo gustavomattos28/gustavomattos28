@@ -19,7 +19,7 @@ Aprendendo, construindo e evoluindo.
 ### 🧰 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,postgres,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,postgres,git,github,idea,vscode,python,linux,vite" />
 </p>
 
 ---
